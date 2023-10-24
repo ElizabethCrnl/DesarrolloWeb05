@@ -1,0 +1,15 @@
+
+#Archivos
+*.DS_Store
+._img
+._video
+package*.*
+gulpfile.js
+
+#Carpetas
+src/
+video/
+node_modules/
+build/img/
+
+

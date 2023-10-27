@@ -8,8 +8,8 @@ gulpfile.js
 
 #Carpetas
 src/
-video/
 node_modules/
-build/img/
+deployment/
+
 
 
